@@ -6,6 +6,5 @@ function NumberOf1(n){
         a = a & (a - 1);
     }
     return count;
-}}
+}
 
- 
